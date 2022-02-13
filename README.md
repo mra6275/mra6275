@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mra6275
+- 👋 Hi, I’m Mark
 - 👀 I’m interested in programming in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
